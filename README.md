@@ -1,2 +1,2 @@
-# -PyGame-1-2Player-Catch-the-Stuff-Game
+# Catch the bonbons
 You catch them Bob-bonbons,
